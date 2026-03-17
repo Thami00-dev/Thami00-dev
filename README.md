@@ -41,10 +41,23 @@ public class SobreMim{
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
 
 <br><br>
+<!-- 🔄 DATA FORMATS/APIS  -->
+<h3>🔄 Data Formats / APIs</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="JSON" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="40" alt="XML" />
+
+
+<br><br>
+
+<!-- ⚙️ FRAMEWORKS -->
+<h3>⚙️ Frameworks</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+<br><br>
 
 <!-- 🗄️ DATABASES -->
 <h3>🗄️ Databases</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 
 <br><br>
 
@@ -52,6 +65,7 @@ public class SobreMim{
 <h3>🛠️ Tools & Version Control</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 
 <br><br>
@@ -59,6 +73,7 @@ public class SobreMim{
 <!-- 🌐 INFRASTRUCTURE & NETWORKING -->
 <h3>🌐 Infrastructure & Networking</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
 
 <br><br>
 
@@ -66,5 +81,7 @@ public class SobreMim{
 <h3>☁️ Cloud & Systems</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Cloud" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Systems" />
+
+
 
   
